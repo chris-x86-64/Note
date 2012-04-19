@@ -1,0 +1,13 @@
+暗号アルゴリズム:
+	- 対称暗号:
+		- ブロック暗号:
+			- DES:
+				- Data Encryption Standard (1977)
+				- NBS（現NIST）が制定
+			- AES
+		- ストリーム暗号:
+			- バーナム暗号
+			- NFSR
+	- 非対称暗号 (公開鍵暗号系):
+		- RSA # Very Important
+		- ElGamal
