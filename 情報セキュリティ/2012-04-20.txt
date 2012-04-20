@@ -6,6 +6,10 @@
 				- NBS (現NIST) が制定
 				- 非機密文書用 (取扱注意文書用)
 				- 図: http://www.itl.nist.gov/fipspubs/fip46-2.htm
+				- S-boxは非線形変換 (逆行列をかければ解読できるわけではない)
+				- 安全性:
+					- 差分解読 (http://en.wikipedia.org/wiki/Differential_cryptanalysis)
+					- 線形解読 (http://en.wikipedia.org/wiki/Linear_cryptanalysis)
 			- AES
 		- ストリーム暗号:
 			- バーナム暗号
