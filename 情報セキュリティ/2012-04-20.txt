@@ -5,6 +5,7 @@
 				- Data Encryption Standard (1977)
 				- NBS (現NIST) が制定
 				- 非機密文書用 (取扱注意文書用)
+				- 図: http://www.itl.nist.gov/fipspubs/fip46-2.htm
 			- AES
 		- ストリーム暗号:
 			- バーナム暗号
